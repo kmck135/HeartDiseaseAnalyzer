@@ -1,6 +1,0 @@
-'Age (0-115)','sex','ChestPainType','RESTINGBP (0-200)','CHOLESTEROL (0-603)','FASTINGBS (0-1)','RestingECG','MAXHR (60-202)','ExerciseAngina','OLDPEAK (-2.6 to 6.2)','ST Slope','output 1','output 2','output 3','output 4','timestamp'
-'70','M','ATA','70','200','0','ST','80','Y','3','Up','High Chances of Heart Disease','output 2/0.png','output 3/0.png','output 4/0.png','2022-04-03 03:29:48.071578'
-'70','M','ATA','70','200','0','ST','80','Y','3','Up','High Chances of Heart Disease','output 2/1.png','output 3/1.png','output 4/1.png','2022-04-03 03:29:49.592437'
-'70','M','ATA','70','200','0','ST','80','Y','3','Up','High Chances of Heart Disease','output 2/2.png','output 3/2.png','output 4/2.png','2022-04-03 03:29:50.528695'
-'70','M','ATA','70','200','0','ST','80','Y','3','Up','High Chances of Heart Disease','output 2/3.png','output 3/3.png','output 4/3.png','2022-04-03 03:29:50.777992'
-'70','M','ATA','70','200','0','ST','80','Y','3','Up','High Chances of Heart Disease','output 2/4.png','output 3/4.png','output 4/4.png','2022-04-03 03:29:51.052835'
